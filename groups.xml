@@ -1,0 +1,20 @@
+<object-stream>
+  <map>
+    <entry>
+      <string>Shadowlands</string>
+      <application.Objects.Groups>
+        <name>Shadowlands</name>
+        <members>
+          <application.Objects.User>
+            <username>Ben</username>
+            <password>1</password>
+            <email>ben@live.ie</email>
+            <accType>Member</accType>
+            <signUpDate>2021-01-06</signUpDate>
+          </application.Objects.User>
+        </members>
+        <messages/>
+      </application.Objects.Groups>
+    </entry>
+  </map>
+</object-stream>

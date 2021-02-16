@@ -1,0 +1,24 @@
+<object-stream>
+  <map>
+    <entry>
+      <string>John</string>
+      <application.Objects.User>
+        <username>John</username>
+        <password>2</password>
+        <email>John@live.ie</email>
+        <accType>Admin</accType>
+        <signUpDate>2021-01-06</signUpDate>
+      </application.Objects.User>
+    </entry>
+    <entry>
+      <string>Ben</string>
+      <application.Objects.User>
+        <username>Ben</username>
+        <password>1</password>
+        <email>ben@live.ie</email>
+        <accType>Member</accType>
+        <signUpDate>2021-01-06</signUpDate>
+      </application.Objects.User>
+    </entry>
+  </map>
+</object-stream>
